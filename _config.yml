@@ -11,7 +11,7 @@ repository               : "Ultraouadapt/LJT-Homepage"
 
 # Site Author
 author:
-  avatar           : "profile.png"
+  avatar           :
   name             : "Junteng Liu"
   bio              : "First-year PhD candidate at HKUST NLP Group"
   location         :
